@@ -1,0 +1,19 @@
+{
+  "name": "example-20-drop-down",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-livereload": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "gulp-htmlmin": "^5.0.1",
+    "static-server": "^2.2.1"
+  }
+}
